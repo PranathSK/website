@@ -4,8 +4,8 @@ body {
   margin: 0;
   background: #fff;
   color: #202124;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 16px;
+  font-family: Georgia, "Georgia", serif;
+  font-size: 19px;
   line-height: 1.45;
 }
 a { color: #176b73; text-decoration: underline; text-underline-offset: 2px; }
